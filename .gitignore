@@ -1,0 +1,15 @@
+data/raw/
+data/clean
+data/cleaned
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+
+# system files
+.DS_Store
+Thumbs.dbdata/clean/lending_club_clean.csv
+data/cleaned/
